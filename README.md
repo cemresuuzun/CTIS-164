@@ -1,2 +1,2 @@
-# CTIS-164
+# CTIS-164 HW1
 GLUT library
